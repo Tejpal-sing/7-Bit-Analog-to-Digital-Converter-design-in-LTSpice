@@ -1,0 +1,1 @@
+# 7-Bit-Analog-to-Digital-Converter-design-in-LTSpice
